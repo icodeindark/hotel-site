@@ -1,0 +1,193 @@
+/* Style for the entire body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+  }
+/* Navbar Styling */
+/* Home Link Styling */
+/* Home Link Styling */
+.nav-link#ho {
+    color: #fff; /* White text color */
+    font-weight: 600;
+    transition: color 0.3s;
+  }
+  
+  .nav-link#ho:hover {
+    color: #ffcc00; /* Yellow text color on hover */
+  }
+  
+  
+.navbar {
+    background-color: #000; /* Change to your desired background color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    padding: 10px 0;
+  }
+  
+  .navbar-brand {
+    font-size: 28px;
+    color: #ffcc00; /* Change to your desired text color */
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .navbar-toggler {
+    background-color: #ffcc00; /* Change to your desired toggle button color */
+  }
+  
+  .nav-link {
+    color: #fff; /* Change to your desired text color */
+    font-weight: 600;
+    transition: color 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #ffcc00; /* Change to your desired hover text color */
+  }
+  
+  /* Dropdown Styling */
+  .dropdown-toggle {
+    color: #fff; /* Change to your desired text color */
+  }
+  
+  .dropdown-menu {
+    background-color: #000; /* Change to your desired dropdown background color */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dropdown-item {
+    color: #fff; /* Change to your desired text color */
+    transition: color 0.3s;
+  }
+  
+  .dropdown-item:hover {
+    color: #ffcc00; /* Change to your desired hover text color */
+  }
+  
+  /* Search Box Styling */
+  .form-control {
+    border: 2px solid #ffcc00; /* Change to your desired border color */
+  }
+  
+  .btn-outline-success {
+    color: #ffcc00; /* Change to your desired text color */
+    border-color: #ffcc00; /* Change to your desired border color */
+  }
+  
+  .btn-outline-success:hover {
+    background-color: #ffcc00; /* Change to your desired hover background color */
+    color: #000; /* Change to your desired hover text color */
+  }
+  
+
+  /* Style for the hero section */
+  .carousel-caption {
+    background: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  /* Style for the order section */
+  #order {
+    background-color: #fff;
+    padding: 50px 0;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+  }
+  
+  card-text {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .card-title.text-danger {
+    color: #ff5722;
+  }
+  
+  .btn-primary {
+    background-color: #ff5722;
+    color: #fff;
+    font-weight: 600;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-primary:hover {
+    background-color: #e9410c;
+  }
+  
+  /* Style for the footer */
+  #foot {
+    background-color: #333;
+    color: #fff;
+    padding: 50px 0;
+  }
+  
+  h1.text-center {
+    font-size: 24px;
+  }
+  
+  h2.text-whit {
+    font-size: 20px;
+  }
+  
+  h4.text-whit {
+    font-size: 16px;
+    color: #ccc;
+  }
+  
+  p.text-whit {
+    font-size: 16px;
+    color: #ccc;
+  }
+  
+  /* Additional styles for anchor links */
+  a {
+    text-decoration: none;
+    color: #ff5722;
+    transition: color 0.3s;
+  }
+  
+  a:hover {
+    color: #e9410c;
+  }
+
+  /* Content Section Styling */
+.container.my-5 {
+    background-color: #fff; /* White background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  }
+  
+  .container.my-5 h2 {
+    font-size: 28px; /* Increase heading font size */
+    color: #333; /* Dark text color */
+    margin-bottom: 20px; /* Add some space below the heading */
+  }
+  
+  .container.my-5 p {
+    color: #777; /* Text color for the description */
+  }
+  
+  .col-md-6 h3 {
+    font-size: 24px; /* Heading font size */
+    color: #000; /* Black text color */
+  }
+  
+  .col-md-6 p {
+    color: #444; /* Text color for the content */
+  }
+  
+  
+  /* You can customize colors, fonts, and other styles to match your website's theme. */
+  
